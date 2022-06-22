@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f4af0f5-3d42-4c05-b71e-97b217dc213b": {
+      "ProjectGuid": "7f4af0f5-3d42-4c05-b71e-97b217dc213b",
+      "DisplayName": "LCP Technical Exercise Challenge",
+      "ColorIndex": 0
+    },
+    "ce19fef0-314e-4852-8d87-b38a4d0d60e9": {
+      "ProjectGuid": "ce19fef0-314e-4852-8d87-b38a4d0d60e9",
+      "DisplayName": "TechnicalChallenge_UnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

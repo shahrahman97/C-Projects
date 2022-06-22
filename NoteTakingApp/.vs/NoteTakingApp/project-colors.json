@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d999bc30-dc2c-4907-9dcc-bdb0bfd70814": {
+      "ProjectGuid": "d999bc30-dc2c-4907-9dcc-bdb0bfd70814",
+      "DisplayName": "NoteTakingApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

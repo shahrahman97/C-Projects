@@ -1,0 +1,17 @@
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\bin\Debug\net6.0-windows\TelephoneDiary.exe
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\bin\Debug\net6.0-windows\TelephoneDiary.deps.json
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\bin\Debug\net6.0-windows\TelephoneDiary.runtimeconfig.json
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\bin\Debug\net6.0-windows\TelephoneDiary.dll
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\bin\Debug\net6.0-windows\ref\TelephoneDiary.dll
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\bin\Debug\net6.0-windows\TelephoneDiary.pdb
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.csproj.AssemblyReference.cache
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.Phone.resources
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.csproj.GenerateResource.cache
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.AssemblyInfoInputs.cache
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.AssemblyInfo.cs
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.csproj.CoreCompileInputs.cache
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.dll
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\ref\TelephoneDiary.dll
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.pdb
+D:\Users\Shah Rahman\Desktop\C# Projects\TelephoneDiary\obj\Debug\net6.0-windows\TelephoneDiary.genruntimeconfig.cache

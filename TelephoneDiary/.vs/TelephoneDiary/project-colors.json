@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9290bab2-a5fd-4001-8ec1-a670d37093fb": {
+      "ProjectGuid": "9290bab2-a5fd-4001-8ec1-a670d37093fb",
+      "DisplayName": "TelephoneDiary",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

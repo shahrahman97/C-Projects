@@ -1,0 +1,12 @@
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\bin\Debug\net6.0\LCP Technical Exercise Challenge.deps.json
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\bin\Debug\net6.0\LCP Technical Exercise Challenge.dll
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\bin\Debug\net6.0\ref\LCP Technical Exercise Challenge.dll
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\bin\Debug\net6.0\LCP Technical Exercise Challenge.pdb
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.csproj.AssemblyReference.cache
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.AssemblyInfoInputs.cache
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.AssemblyInfo.cs
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.csproj.CoreCompileInputs.cache
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.dll
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\ref\LCP Technical Exercise Challenge.dll
+D:\Users\Shah Rahman\Desktop\Send\LCP Technical Exercise Challenge\obj\Debug\net6.0\LCP Technical Exercise Challenge.pdb
