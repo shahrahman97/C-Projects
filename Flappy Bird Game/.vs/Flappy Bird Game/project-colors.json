@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98b95e57-dc8b-43f6-a6ab-296ea8008822": {
+      "ProjectGuid": "98b95e57-dc8b-43f6-a6ab-296ea8008822",
+      "DisplayName": "Flappy Bird Game",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
